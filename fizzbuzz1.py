@@ -12,4 +12,3 @@ for fz in range(101):
         print("fizzbuzz")
         continue
     print(fz)
-    
